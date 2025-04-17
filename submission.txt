@@ -1,0 +1,9 @@
+
+Dataset Link:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+
+GitHub Repo:
+https://github.com/IT21273858/ML_IT4060_Assignment.git
+
+YouTube Presentation:
+
